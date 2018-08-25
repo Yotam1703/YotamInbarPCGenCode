@@ -1,0 +1,2 @@
+Add Climb Speed	KEY:Dark Tapastry Spirit Animal ~ Add Climb Speed	PREMULT:1,[!PREMOVE:1,Climb=1],[PRETEMPLATE:1,Dark Tapastry Spirit Animal ~ Add Climb Speed]	MOVECLONE:Climb,Walk,*1
+Add Swim Speed	KEY:Dark Tapastry Spirit Animal ~ Add Swim Speed	PREMULT:1,[!PREMOVE:1,Swim=1],[PRETEMPLATE:1,Dark Tapastry Spirit Animal ~ Add Swim Speed]	MOVECLONE:Swim,Walk,*1
