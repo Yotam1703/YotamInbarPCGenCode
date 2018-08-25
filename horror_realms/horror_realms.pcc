@@ -1,0 +1,53 @@
+# CVS $Revision$ $Author$ -- Tue Dec  2 19:28:17 2014 -- reformated by prettylst.pl v1.51 (build 25490)
+CAMPAIGN:Horror Realms
+KEY:Horror Realms
+GAMEMODE:Pathfinder|Pathfinder_PFS
+TYPE:Paizo Publishing.Pathfinder Campaign Setting
+RANK:2
+STATUS:BETA
+GENRE:Fantasy
+BOOKTYPE:Campaign Setting
+SETTING:Pathfinder|Golarion
+PRECAMPAIGN:1,INCLUDES=Ultimate Magic
+PRECAMPAIGN:1,INCLUDES=Advanced Class Guide
+PRECAMPAIGN:1,INCLUDES=Advanced Player's Guide
+PRECAMPAIGN:1,INCLUDES=Occult Adventures
+PUBNAMELONG:Paizo Inc.
+PUBNAMESHORT:Paizo
+PUBNAMEWEB:http://paizo.com
+SOURCELONG:Horror Realms
+SOURCESHORT:HR
+SOURCEWEB:SOMETHING
+SOURCEDATE:2018-18
+ISOGL:YES
+
+COVER:hr.jpg
+LOGO:@/publisher_logos/Paizo_Publishing.png
+URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
+URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
+URL:Paizo Publishing|http://paizo.com/products/btpy8hij?Pathfinder-Campaign-Setting-Book-of-the-Damned-Volume-2-Lords-of-Chaos|Buy this publication from Paizo Publishing!
+DESC:Horrors Await Within. Terrors beyond compare lurk in the world's shadows, yet the bravest of Golarion's heroes must face these nightmares again and again. Pathfinder Campaign Setting: Horror Realms helps bring the spine-chilling terrors presented in Pathfinder RPG Horror Adventures to the Inner Sea region and beyond, presenting new rules, detailed ghastly locations, and unnerving character options for your campaign. Inside the pages of this book, you'll find:Information on how the eerie corruptions introduced in Horror Adventures can be incorporated into the world of Golarion, along with details on three new corruptions to vex your players or empower your villains.Seven locations ripe for exploration in horror-themed campaigns, including haunted villages, islands rampant with cannibals and necromancers, and more!Numerous horror-themed class options for characters, including rules for corrupted animal companions, spirits from the depths of space, exploits of the sinister Outer Planes, haunting bardic performances, aberrant eidolons for summoners, and more!Full details on three new categories of variant haunts—incursions into this reality from the First World, miraculous resonances from the gods, and technological surges.Pathfinder Campaign Setting: Horror Realms is a perfect companion for Pathfinder RPG Horror Adventures, and is intended for use with the Pathfinder Roleplaying Game and Pathfinder campaign setting, but can easily be used in any fantasy game setting.
+
+INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
+#COPYRIGHTS
+
+#COPYRIGHT:Vegepygmy from the Tome of Horrors Revised. Copyright 2002, Necromancer Games, Inc.; Author: Scott Greene and Clark Peterson, based on original material by Gary Gygax.
+#COPYRIGHT:PCGen dataset conversion for "Pathfinder Campaign Setting: Lords of Chaos, Book of the Damned, Vol. 2" Copyright 2013-2014, PCGen Data team (Including, but not limited to Paul Shipley, Paul Grosse (License), Andrew Maitland (Data))
+
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+# Data Files
+ABILITYCATEGORY:hr_abilitycategories.lst
+ABILITY:hr_abilities_class.lst
+ABILITY:hr_abilities_race.lst
+#DEITY:hr_deities.lst
+#EQUIPMENT:hr_equip.lst
+ABILITY:hr_feats.lst
+#KIT:hr_kits_race.lst
+#RACE:hr_races.lst
+#SPELL:hr_spells.lst
+TEMPLATE:hr_templates.lst
+
+# End
+#
