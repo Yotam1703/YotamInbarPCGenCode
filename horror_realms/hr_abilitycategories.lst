@@ -1,0 +1,10 @@
+##Insights From Beyond 
+#ABILITYCATEGORY:Mute Musician Bonus Spell	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:BonusSpellKnownMuteMusician	PLURAL:Mute Musician Bonus Spells	DISPLAYLOCATION:Class Features
+#ABILITYCATEGORY:Bonus Conjuration (calling) Spell		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:MuteMusicianCalling		PLURAL:Bonus Conjuration (calling) Spells		DISPLAYLOCATION:Class Features
+#ABILITYCATEGORY:Bonus Conjuration (summoning) Spell		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:MuteMusicianSummoning		PLURAL:Bonus Conjuration (summoning) Spells	DISPLAYLOCATION:Class Features
+#ABILITYCATEGORY:Bonus Conjuration (teleportation) Spell	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:MuteMusicianTeleportation	PLURAL:Bonus Conjuration (teleportation) Spells	DISPLAYLOCATION:Class Features
+
+ABILITYCATEGORY:Accursed Companion Manifestation	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:AccursedCompanionManifestation	PLURAL:Accursed Companion Manifestations	DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Scarred Monk Mortifications		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:ScarredMonkMortification		PLURAL:Scarred Monk Mortifications		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Shaman Dark Tapastry Wandering Hex	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:ShamanSpiritHex.ShamanDarkTapastryHex						DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Basic Psychic Magic Choice		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:BasicPsychicMagicSpell									DISPLAYLOCATION:Racial Abilities
